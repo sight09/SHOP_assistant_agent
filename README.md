@@ -25,7 +25,7 @@ Helping users discover electronics products using conversational AI, intelligent
 
 ---
 
-# 📖 Overview
+<h2>📖 Overview </h2>
 
 SmartShop Electronics is an **AI-powered multilingual shopping assistant** built with **Python**, **Streamlit**, and **OpenRouter**.
 
@@ -43,7 +43,7 @@ The application supports **English**, **Amharic**, and **Afaan Oromo**, making i
 
 ---
 
-# ✨ Features
+<h2>✨ Features</h2>
 
 - 🤖 AI-powered conversational shopping assistant
 - 🌍 Multilingual support (English, Amharic, Afaan Oromo)
@@ -59,7 +59,7 @@ The application supports **English**, **Amharic**, and **Afaan Oromo**, making i
 
 ---
 
-# 🏗️ Architecture
+<h2>🏗️ Architecture</h2>
 
 ```text
                     User
@@ -83,7 +83,7 @@ The application supports **English**, **Amharic**, and **Afaan Oromo**, making i
 
 ---
 
-# 🛠 Technology Stack
+<h2>🛠 Technology Stack </h2>
 
 | Technology | Purpose |
 |------------|---------|
@@ -98,13 +98,14 @@ The application supports **English**, **Amharic**, and **Afaan Oromo**, making i
 
 ---
 
-# 📂 Project Structure
+<h2> 📂 Project Structure </h2>
 
 ```text
 SmartShop-Electronics/
 │
 ├── assets/
-│   ├── banner.png
+|   └── banner.png
+│    
 │
 ├── data/
 │   └── products.csv
@@ -117,7 +118,7 @@ SmartShop-Electronics/
 
 ---
 
-# ⚙️ Installation
+<h2> ⚙️ Installation </h2>
 
 Clone the repository
 
@@ -155,7 +156,7 @@ pip install -r requirements.txt
 ```
 ---
 
-#🔑 Configuration
+<h2>🔑 Configuration </h2>
 
 Create a `.env` file.
 
@@ -164,7 +165,7 @@ OPENROUTER_API_KEY=your_api_key_here
 ```
 ---
 
-#▶️ Run the Application
+<h2> ▶️ Run the Application </h2>
 
 ```bash
 streamlit run app.py
@@ -178,7 +179,7 @@ http://localhost:8501
 
 ---
 
-#💬 Example Questions
+<h2> 💬 Example Questions </h2>
 
 You can ask questions like:
 
@@ -196,7 +197,7 @@ Show me the cheapest laptops.
 
 ---
 
-# 🌍 Supported Languages
+<h2> 🌍 Supported Languages </h2>
 
 - 🇺🇸 English
 - 🇪🇹 Amharic
@@ -206,7 +207,7 @@ The application automatically detects the user's language and responds appropria
 
 ---
 
-# 🚀 Future Improvements
+<h2> 🚀 Future Improvements </h2>
 
 - 👤 User authentication
 - ❤️ Wishlist
@@ -223,7 +224,7 @@ The application automatically detects the user's language and responds appropria
 
 ---
 
-# 🤝 Contributing
+<h2> 🤝 Contributing </h2> 
 
 Contributions are welcome!
 
@@ -250,7 +251,7 @@ git push origin feature-name
 
 ---
 
-# 📄 License
+<h2> 📄 License </h2>
 
 This project is licensed under the MIT License.
 
